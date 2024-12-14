@@ -16,25 +16,24 @@ This is a starter template for a React application set up with **Vite** as the b
 
 Before getting started, you need to have **Node.js** installed on your machine. You can download and install it from [here](https://nodejs.org/).
 
-### Clone the Repository
+## Setup Instructions
 
-You can clone this repository to your local machine by running the following command:
+1.  **Clone the Git Repository**:
 
-    bash
+    ```bash
 
-    git  clone  https://github.com/Yash-DevMaster7/Vite-tailwind-StarterRepo.git
+    git https://github.com/Yash-DevMaster7/Vite-tailwind-StarterRepo.git
 
-### Install Dependencies
+    ```
 
-    bash
+2.  **Install Dependencies**:
 
-    cd vite-tailwind-StarterRepo
-    npm install
+	    cd vite-tailwind-StarterRepo
+	    npm install
 
-### Run Development Server
+   
+3.  **Run Development Server**:
 
-    bash
-
-    npm run dev
+	    npm run dev
 
 Good to go, our application is live on URL: http://localhost:5173
